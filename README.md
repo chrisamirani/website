@@ -19,7 +19,7 @@
 
 
 
-  <img align="right" alt="Quantum CPU" src="https://github.com/chrisamirani/chrisamirani/blob/main/q.jpg" width="500"/>
+  <img align="right" alt="Quantum CPU" src="https://github.com/chrisamirani/chrisamirani/blob/main/q.jpg" width="400"/>
   
 A full stack developer/educator with a big passion for anything technical.
 - 🤖 Learning more about ML.
@@ -39,5 +39,5 @@ A full stack developer/educator with a big passion for anything technical.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=chrisamirani&show_icons=true&theme=gotham" alt="chrisamirani" />
+<img src="https://github-readme-stats.vercel.app/api?username=chrisamirani&show_icons=true&theme=gotham" alt="chrisamirani" style="width:100%;" />
 
