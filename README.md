@@ -21,7 +21,6 @@
 
   <img align="right" alt="Quantum CPU" src="https://github.com/chrisamirani/chrisamirani/blob/main/q.jpg" width="500"/>
   
-**I am:**
 A full stack developer/educator with a big passion for anything technical.
 - 🤖 Learning more about ML.
 - ⚛️ Trying to understand quantum mechanic and computing.
