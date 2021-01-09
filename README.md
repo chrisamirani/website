@@ -6,6 +6,9 @@
 <a href="https://www.instagram.com/bigscratchers">
   <img align="left" alt="My Instagram" width="30px" src="https://img.icons8.com/fluent/344/instagram-new.png" />
 </a>
+<a href="https://www.youtube.com/channel/UCGnSj4wBUX4tXEmC6UXtFhA">
+  <img align="left" alt="My Youtube" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
 <a href="https://www.youtube.com/channel/UCPIvBdOsV6VPpzXsAmWN89w">
   <img align="left" alt="My Youtube" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
