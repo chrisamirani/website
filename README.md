@@ -13,7 +13,11 @@
 
 <br />
 
+
+
 I am a full stack developer/educator with a big passion for anything technical.
+
+
 
   <img align="right" alt="Quantum CPU" src="https://github.com/chrisamirani/chrisamirani/blob/main/q.jpg" width="500"/>
   
