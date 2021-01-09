@@ -41,4 +41,4 @@ A full stack developer/educator with a big passion for anything technical.
 
 <img src="https://github-readme-stats.vercel.app/api?username=chrisamirani&show_icons=true&theme=gotham" alt="chrisamirani" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisamirani&theme=gotham" alt="chrisamirani" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisamirani&layout=compact&theme=gotham)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisamirani&layout=compact&theme=gotham)](#)
