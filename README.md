@@ -15,7 +15,7 @@
 
 
 
-I am a full stack developer/educator with a big passion for anything technical.
+
 
 
 
