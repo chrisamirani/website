@@ -39,6 +39,6 @@ A full stack developer/educator with a big passion for anything technical.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=chrisamirani&show_icons=true&theme=gotham" alt="chrisamirani" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisamirani&show_icons=true&theme=gotham" alt="chrisamirani" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisamirani&layout=compact&theme=gotham&exclude_repo=demandoo-web-app&hide=makefile,objective-c,java"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisamirani&layout=compact&theme=gotham&exclude_repo=demandoo-web-app&hide=makefile,objective-c,java"/>
